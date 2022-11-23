@@ -554,6 +554,7 @@ header .container {
 .example-link{  
     text-decoration: none;
     color: var(--secondary-text-color);
+    display: block;
 }
 
 .example-link:hover{
